@@ -2,7 +2,7 @@
 shaclick v1.0...
 Hi there!!!
 
-Here you go download it. This tool is compatible with Termux/Linux. Then, use CD cmd to open shaclick dir. Next run with bash cmd shaclick.sh
+Here you go this tool is compatible with Termux/Linux. Then, use CD cmd to open shaclick dir. Next run with bash cmd shaclick.sh
 
 Step
 # cd shaclick (try to open the dir)
