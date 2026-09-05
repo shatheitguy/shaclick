@@ -73,4 +73,13 @@ dependency is a fine place for a tool like this to stay.
 Archived, 2020. Kept for reference and as a defensive write-up. Not maintained,
 not functional, and not to be pointed at anyone.
 
-— Sharqan Ahamed (Sha the IT Guy)
+## Author
+
+**Sharqan Ahamed** — *Sha The IT Guy*
+
+- 🌐 Website: [shatheitguy.in](https://shatheitguy.in)
+- 💻 More projects: [github.com/shatheitguy](https://github.com/shatheitguy)
+
+I build and secure IT systems for a living — assets, helpdesk, networks, and
+the defensive side of exactly the kind of technique this old repo documents.
+See [IT-Vault](https://github.com/shatheitguy/it-vault) for what I work on now.
